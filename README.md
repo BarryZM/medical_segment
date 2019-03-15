@@ -34,7 +34,7 @@ source_data 这个路径下是200篇文档，其中包含“txtoriginal”英文
 
 自定义字典：userdict.txt
 
-停用词表：stopwords.txt
+停用词表：stop_words.txt
 
 代码文件：cut_stopwords.py
 
