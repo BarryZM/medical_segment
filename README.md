@@ -8,7 +8,7 @@ source_data 这个路径下是200篇文档，其中包含“txtoriginal”英文
 
 使用的Python编辑器为 wingide6.
 
-欢迎移步[我的博客]()看更详细地说明。
+欢迎移步[我的博客](https://www.cnblogs.com/Luv-GEM/p/10534713.html)看更详细地说明。
 
 ## （二）实践过程
 
