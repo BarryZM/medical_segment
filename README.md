@@ -1,1 +1,1 @@
-# medical_segment
+# 基于jieba动态调整字典和词频的电子病历分词实践
