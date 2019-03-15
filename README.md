@@ -21,13 +21,13 @@ source_data 这个路径下是200篇文档，其中包含“txtoriginal”英文
 代码文件: cut_direct.py
 分词结果：cut_direct.txt
 
-## 2 加载医疗命名实体识别字典
+### 2 加载医疗命名实体识别字典
 
 命名实体识别字典：DICT_NOW.csv
 代码文件：cut_dict.py
 分词结果：cut_dict.txt
 
-## 3 自定义字典、正则表达式匹配和停用词过滤
+### 3 自定义字典、正则表达式匹配和停用词过滤
 
 命名实体识别字典：DICT_NOW.csv
 自定义字典：userdict.txt
